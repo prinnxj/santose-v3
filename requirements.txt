@@ -2,3 +2,4 @@ streamlit
 pyyaml
 langchain
 openai
+python-dotenv
